@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+### Overview
+The purpose of this analysis is to provide insights on MechaCar's production to assist the manufacruting team in making production decisions. 
+
 ## Linear Regression to Predict
 
               Call:
